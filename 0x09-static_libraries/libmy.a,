@@ -1,2 +1,3 @@
 #!/bin/bash
 #include "main.h"
+ar rc libmy.a 0-isupper.o 0-memset.o 0-strcat.o 1-isdigit.o 1-memcpy.o 1-strncat.o 100-atoi.o
